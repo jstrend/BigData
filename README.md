@@ -1,2 +1,3 @@
 # lecture
-Update REAME.md
+this is example for class
+have fun^^
